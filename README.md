@@ -1,6 +1,6 @@
 # final_project
 
-A new Flutter project.
+A new Flutter project about second hand shopping application.
 
 ## Getting Started
 
